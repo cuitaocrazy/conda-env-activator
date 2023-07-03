@@ -12,6 +12,10 @@
   "activationEvents": [
     "onStartupFinished"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuitaocrazy/conda-env-activator.git"
+  },
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
