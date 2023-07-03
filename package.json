@@ -3,6 +3,7 @@
   "displayName": "Conda Env Activator",
   "description": "Conda Env Activator is a Visual Studio Code extension that automatically activates the current Conda environment upon launching a new terminal. Specifically designed for users who primarily use Conda for environment management, this extension streamlines the activation process, enhancing efficiency and user experience.",
   "version": "0.0.1",
+  "publisher": "Ctctklfh",
   "engines": {
     "vscode": "^1.79.0"
   },
